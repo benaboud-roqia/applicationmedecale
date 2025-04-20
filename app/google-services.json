@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "534760564064",
+    "firebase_url": "https://nerveapplication-e161a-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "nerveapplication-e161a",
+    "storage_bucket": "nerveapplication-e161a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534760564064:android:bb5ab0b33d2fe19bc86a05",
+        "android_client_info": {
+          "package_name": "com.dianerverotect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534760564064-7i0i4r0fkjvlgg764kocvbo8ppfd79pk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUOejVznG0u99quvbY9DQD4BF5hJRn5q8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "534760564064-7i0i4r0fkjvlgg764kocvbo8ppfd79pk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="teal">#4ECCC3</color> <!-- Existing teal, might be close to button green -->
+    <color name="gray">#757575</color>
+
+    <!-- New colors based on the image -->
+    <color name="card_blue_background">#A0E7E5</color> <!-- Light cyan/blue -->
+    <color name="card_red_background">#FFAAAA</color> <!-- Light pink/red -->
+    <color name="button_green_background">#1DE9B6</color> <!-- Bright green/teal -->
+    <color name="text_color_dark">#333333</color> <!-- Dark gray for text -->
+    <color name="text_color_red">#D32F2F</color> <!-- Darker red for mg/dL -->
+    <color name="text_color_grey">#888888</color> <!-- Lighter grey for subtext -->
+
+</resources>
